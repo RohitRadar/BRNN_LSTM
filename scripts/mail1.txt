@@ -1,0 +1,8 @@
+Respected Profs,
+	Rohit and I had gone through the research paper on Extremum Seeking Control for Beam Steering using HyperSurfaces, which you had sent to us before. We found it extremely interesting and would be grateful to work with you on this. 
+	Our work was more aligned towards passive metasurfaces and planar antennas previously. Thus we found new concepts in your paper, which we were unable to get a grasp on. We read few research papers on reconfigurable metasurfaces to understand how the phase change can be implemented on a metasurface. We found the Extremum Seeking feedback system to be quite complicated, thus we would be grateful if you could guide us on that. We also are new to AnyLogic Software, thus we would appreciate if you could provide us resources for us to learn the software.
+	We hope to learn quickly with your assistance in these coming weeks and start working with you soon.
+
+Respected Profs,
+	We are extremely happy to work and learn with you. We would like to deepen our understandings on concepts we found new. You giving us a timeline to start our work would be helpful to get us on track. 
+	In the previous Google Meet we had, we had come to the conclusion that Extremum Seeking Control for Metasurface Beam Steering is the topic we would like to work on. Thus if you could send us resources to learn about Feedback systems and AnyLogic Software tool, we would be grateful.
