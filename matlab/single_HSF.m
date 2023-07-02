@@ -2,7 +2,7 @@ function P = single_HSF(teta,fi)
 %#codegen
 
 
-bit=2;
+bit=1;
 c=299792458;
 f=8.65e9;
 lambda=c/f;
